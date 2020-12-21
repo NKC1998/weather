@@ -1,0 +1,44 @@
+body{
+  background-image: url('1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center
+}
+.form-container {
+  width: 100%;
+}
+.title-container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.weather_F{
+  font-size: 60px;
+  color: white;
+  margin: 40px
+}
+.weather_country{
+  font-size: 30px;
+  color:#ffffffd6;
+  font-weight: 800;
+}
+.weather_key{
+  font-size: 30px;
+  font-weight: 200;
+  color: #ffffffd1;
+}
+.buttonn{
+  margin: 10px;
+}
+.btn-warning{
+  color: #fff;
+  background-color: #d48d28b8;
+  border-color: #eea236bd;
+}
+.title-container_title{
+  color:black;
+  font-size: 40px;
+}
+.title-container_subtitle{
+  color: #2196f3;
+}
